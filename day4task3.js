@@ -7,7 +7,7 @@ let sj = function() {
         console.log(b.map(uu => uu.name));
         console.log(b.map(uu => uu.region));
         console.log(b.map(uu => uu.subregiom));
-        console.log(b.map(uu => uu.papulation));
+        console.log(b.map(uu => uu.population));
     };
     xhr.send();
 
